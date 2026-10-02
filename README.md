@@ -20,38 +20,6 @@ A simple **Rock Paper Scissors desktop game** built using **Python and Tkinter**
 * Tkinter
 * Random module
 
-## 📂 Project Structure
-
-```text
-Rock-Paper-Scissors/
-│
-├── rock_paper_scissors.py
-├── README.md
-└── .gitignore
-```
-
-## ▶️ How to Run
-
-Make sure Python is installed on your computer.
-
-Clone the repository:
-
-```bash
-git clone https://github.com/YOUR-USERNAME/Rock-Paper-Scissors.git
-```
-
-Go into the project folder:
-
-```bash
-cd Rock-Paper-Scissors
-```
-
-Run the program:
-
-```bash
-python rock_paper_scissors.py
-```
-
 ## 🎯 Game Rules
 
 * Rock beats Scissors
